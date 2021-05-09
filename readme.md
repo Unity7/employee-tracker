@@ -13,7 +13,8 @@ This nodeJS application allows users to view content in their database, add, and
 ## Installation
 
 Run NPM Install.\
-
+Run NPM Start.\
+Run Node App.\
 https://drive.google.com/file/d/1EPpf4KsPGTjWrm3sWQqVQ1HqRCB05bl-/view
 
 ## Usage
